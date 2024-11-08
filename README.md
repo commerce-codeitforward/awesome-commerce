@@ -67,7 +67,7 @@ If you have suggestions of resources that have helped you in your commerce devel
 
 ## Trailheads
 - [Configure your B2B and B2B2C Commerce Store](https://trailhead.salesforce.com/content/learn/trails/administer-salesforce-b2b-commerce-on-lightning-experience)
-- [Salesforce B2B Commerce Basics](https://trailhead.salesforce.com/content/learn/modules/b2b-commerce-basics)
+- [Salesforce Commerce Basics](https://trailhead.salesforce.com/content/learn/modules/cc_ccbasics)
 - [Salesforce D2C Commerce for Developers](https://trailhead.salesforce.com/content/learn/modules/b2b2c-commerce-for-developers)
 - [Salesforce D2C Commerce Basics
 ](https://trailhead.salesforce.com/content/learn/modules/b2b2c-commerce-basics)
